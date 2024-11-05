@@ -409,7 +409,7 @@ Note：亮度、颜色、大小、人物神态/外貌/衣着描述、方位、�
 
 Note：发言并争取构思时间，将自己的回复与同伴的回复联系在一起，澄清不明确的内容，评估并重申观点，说服他人自己的观点。
 
-#### PS
+#### PS:
 ##### 细节描述短语
 
 | 短语                                     | 释义                            | 示例                                             |
@@ -447,4 +447,41 @@ Note：发言并争取构思时间，将自己的回复与同伴的回复联系�
 | **com um olhar desafiador**              | 带着挑战的目光                 | Ele olhou para o adversário **com um olhar desafiador**。 |
 | **com o cabelo preso em um coque**       | 头发盘成发髻                  | Ela estava **com o cabelo preso em um coque** elegante。 |
 
+##### 描绘人物的形容词
 
+| 形容词               | 释义                    | 示例                                       |
+|----------------------|-------------------------|--------------------------------------------|
+| **inteligente**      | 聪明的                  | Ele é muito **inteligente**。              |
+| **simpático**        | 友善的                  | Ela é **simpática** e acolhedora。        |
+| **diligente**        | 勤奋的                  | Ele é **diligente** no trabalho。          |
+| **gentil**           | 温柔的                  | Ela é sempre **gentil** com todos。       |
+| **extrovertido/a**   | 外向的                  | Ele é **extrovertido** e faz amigos facilmente。 |
+| **tímido/a**         | 害羞的                  | Ela é **tímida**, mas muito gentil。       |
+| **determinado/a**    | 有决心的                | Ele é **determinado** a alcançar seus objetivos。 |
+| **calmo/a**          | 冷静的                  | Ela é **calma** em situações difíceis。     |
+| **alegre**           | 快乐的                  | Ele é sempre **alegre** e divertido。      |
+| **sereno/a**         | 平静的                  | O ambiente era **sereno** e relaxante。    |
+| **arrogante**        | 傲慢的                  | Ele tem um comportamento **arrogante**。   |
+| **flexível**         | 灵活的                  | Ela é **flexível** e se adapta facilmente。 |
+| **responsável**      | 负责任的                | Ele é **responsável** por suas ações。     |
+| **otimista**         | 乐观的                  | Ela é **otimista** sobre o futuro。        |
+| **pessimista**       | 悲观的                  | Ele é **pessimista** em relação aos resultados。 |
+| **sincero/a**        | 诚实的                  | Ela é **sincera** nas suas opiniões。       |
+| **descontraído/a**   | 放松的                  | Ele é **descontraído** e sempre relaxado。  |
+| **criativo/a**       | 有创造力的              | Ela tem ideias **criativas** para resolver problemas。 |
+| **afetuoso/a**       | 亲切的                  | Ele é **afetuoso** com seus amigos。       |
+| **detalhista**       | 注重细节的              | Ela é **detalhista** em seu trabalho。     |
+| **tolerante**        | 容忍的                  | Ele é **tolerante** com as opiniões diferentes。 |
+| **vibrante**         | 充满活力的              | Ela é **vibrante** e cheia de energia。     |
+| **persuasivo/a**     | 有说服力的              | Ele é **persuasivo** em suas apresentações。 |
+| **avesso/a a conflitos** | 反对冲突的          | Ela é **avessa a conflitos** e prefere a paz。 |
+| **dúbio/a**          | 有疑虑的                | Ele parece **dúbio** sobre a decisão。      |
+| **introvertido/a**   | 内向的                  | Ela é **introvertida**, mas muito amigável。 |
+| **irresponsável**     | 不负责任的             | Ele é **irresponsável** em suas escolhas。  |
+| **destemido/a**      | 无畏的                  | Ela é **destemida** e enfrenta desafios。   |
+| **assertivo/a**      | 断言的                  | Ele é **assertivo** e sabe o que quer。    |
+| **prático/a**        | 实用的                  | Ela tem uma abordagem **prática** para resolver problemas。 |
+| **agitado/a**        | 焦躁的                  | Ele estava **agitado** antes da apresentação。 |
+| **guerreiro/guerreira** | 战士的               | Ela é uma verdadeira **guerreira** na luta pelos direitos。 |
+| **artístico/a**      | 艺术的                  | Ele tem uma veia **artística** em tudo que faz。 |
+| **focado/a**         | 专注的                  | Ela é **focada**
