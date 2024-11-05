@@ -409,5 +409,42 @@ Note：亮度、颜色、大小、人物神态/外貌/衣着描述、方位、�
 
 Note：发言并争取构思时间，将自己的回复与同伴的回复联系在一起，澄清不明确的内容，评估并重申观点，说服他人自己的观点。
 
--------
+#### PS
+##### 细节描述短语
+
+| 短语                                     | 释义                            | 示例                                             |
+|------------------------------------------|---------------------------------|--------------------------------------------------|
+| **com um olhar distante**                | 带着遥远的目光                  | Ela olhou **com um olhar distante** para o horizonte. |
+| **com a mão levantada**                  | 手举起来                        | Ele estava **com a mão levantada** para chamar a atenção. |
+| **com um passo firme**                   | 脚步稳健                       | Ela caminhou **com um passo firme** até o palco. |
+| **com a roupa amarrotada**               | 衣服皱巴巴的                    | Ele chegou **com a roupa amarrotada**.           |
+| **com uma expressão preocupada**          | 眉头紧锁                       | Ela estava **com uma expressão preocupada**.      |
+| **com o olhar fixo**                     | 目光坚定                       | Ele a observou **com o olhar fixo**.             |
+| **com os braços cruzados**               | 双臂交叉                       | Ela ficou **com os braços cruzados** durante a discussão. |
+| **com a cabeça baixa**                   | 低着头                         | Ele ficou **com a cabeça baixa** de vergonha.     |
+| **com uma postura relaxada**              | 放松的姿势                     | Ela estava **com uma postura relaxada** no sofá.  |
+| **com um sorriso tímido**                 | 害羞的微笑                     | Ele ofereceu um **sorriso tímido** ao se apresentar. |
+| **com a mão na cintura**                 | 手放在腰间                     | Ela ficou **com a mão na cintura**, pronta para discutir. |
+| **com a respiração ofegante**             | 呼吸急促                       | Ela chegou **com a respiração ofegante** após correr. |
+| **com um toque de alegria**              | 带着一丝喜悦                   | Ele falou **com um toque de alegria** ao mencionar suas férias. |
+| **com um olhar de alívio**               | 带着释然的目光                 | Ela saiu **com um olhar de alívio** após a prova. |
+| **com as mãos trêmulas**                 | 手微微颤抖                     | Ele entrou **com as mãos trêmulas** de nervosismo. |
+| **com a pele bronzeada**                 | 皮肤晒黑                       | Ele voltou das férias **com a pele bronzeada**.  |
+| **com os olhos brilhando**                | 眼睛闪烁                      | Os olhos dela estavam **brilhando** de felicidade. |
+| **com um sorriso satisfeito**            | 满意的微笑                    | Ele saiu **com um sorriso satisfeito** após a reunião. |
+| **com os olhos arregalados**             | 眼睛睁得大大的                 | Ela ficou **com os olhos arregalados** de surpresa. |
+| **com a cabeça inclinada**               | 头微微倾斜                    | Ele a olhou **com a cabeça inclinada**, curioso. |
+| **com um semblante triste**              | 带着悲伤的面容                 | Ele entrou **com um semblante triste** após receber a notícia。 |
+| **com um semblante radiante**            | 带着灿烂的神态                 | Ele entrou **com um semblante radiante** de felicidade。 |
+| **com as costas arqueadas**              | 背部微微弯曲                  | Ele estava **com as costas arqueadas** de cansaço。 |
+| **com um gesto de desapontamento**       | 失望的姿态                    | Ela fez **um gesto de desapontamento** ao ouvir a resposta。 |
+| **com as mãos nos quadris**              | 双手放在臀部                  | Ela ficou **com as mãos nos quadris**, impaciente。 |
+| **com um gesto elegante**                 | 优雅的姿态                     | Ela fez **um gesto elegante** ao cumprimentar。 |
+| **com o olhar indiferente**              | 漠然的目光                    | Ele a observou **com o olhar indiferente**。 |
+| **com um olhar atento**                  | 注意的目光                     | Ele estava **com um olhar atento** durante a apresentação。 |
+| **com a mente clara**                    | 思路清晰                       | Ela falou **com a mente clara** e focada。 |
+| **com a boca ligeiramente aberta**       | 嘴微微张开                     | Ela ficou **com a boca ligeiramente aberta** de surpresa。 |
+| **com um olhar desafiador**              | 带着挑战的目光                 | Ele olhou para o adversário **com um olhar desafiador**。 |
+| **com o cabelo preso em um coque**       | 头发盘成发髻                  | Ela estava **com o cabelo preso em um coque** elegante。 |
+
 
