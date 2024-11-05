@@ -434,85 +434,85 @@ Note：发言并争取构思时间，将自己的回复与同伴的回复联系�
 | **com um sorriso satisfeito**            | 满意的微笑                    | Ele saiu **com um sorriso satisfeito** após a reunião. |
 | **com os olhos arregalados**             | 眼睛睁得大大的                 | Ela ficou **com os olhos arregalados** de surpresa. |
 | **com a cabeça inclinada**               | 头微微倾斜                    | Ele a olhou **com a cabeça inclinada**, curioso. |
-| **com um semblante triste**              | 带着悲伤的面容                 | Ele entrou **com um semblante triste** após receber a notícia。 |
-| **com um semblante radiante**            | 带着灿烂的神态                 | Ele entrou **com um semblante radiante** de felicidade。 |
-| **com as costas arqueadas**              | 背部微微弯曲                  | Ele estava **com as costas arqueadas** de cansaço。 |
-| **com um gesto de desapontamento**       | 失望的姿态                    | Ela fez **um gesto de desapontamento** ao ouvir a resposta。 |
-| **com as mãos nos quadris**              | 双手放在臀部                  | Ela ficou **com as mãos nos quadris**, impaciente。 |
-| **com um gesto elegante**                 | 优雅的姿态                     | Ela fez **um gesto elegante** ao cumprimentar。 |
-| **com o olhar indiferente**              | 漠然的目光                    | Ele a observou **com o olhar indiferente**。 |
-| **com um olhar atento**                  | 注意的目光                     | Ele estava **com um olhar atento** durante a apresentação。 |
-| **com a mente clara**                    | 思路清晰                       | Ela falou **com a mente clara** e focada。 |
-| **com a boca ligeiramente aberta**       | 嘴微微张开                     | Ela ficou **com a boca ligeiramente aberta** de surpresa。 |
-| **com um olhar desafiador**              | 带着挑战的目光                 | Ele olhou para o adversário **com um olhar desafiador**。 |
-| **com o cabelo preso em um coque**       | 头发盘成发髻                  | Ela estava **com o cabelo preso em um coque** elegante。 |
+| **com um semblante triste**              | 带着悲伤的面容                 | Ele entrou **com um semblante triste** após receber a notícia. |
+| **com um semblante radiante**            | 带着灿烂的神态                 | Ele entrou **com um semblante radiante** de felicidade. |
+| **com as costas arqueadas**              | 背部微微弯曲                  | Ele estava **com as costas arqueadas** de cansaço. |
+| **com um gesto de desapontamento**       | 失望的姿态                    | Ela fez **um gesto de desapontamento** ao ouvir a resposta. |
+| **com as mãos nos quadris**              | 双手放在臀部                  | Ela ficou **com as mãos nos quadris**, impaciente. |
+| **com um gesto elegante**                 | 优雅的姿态                     | Ela fez **um gesto elegante** ao cumprimentar. |
+| **com o olhar indiferente**              | 漠然的目光                    | Ele a observou **com o olhar indiferente**. |
+| **com um olhar atento**                  | 注意的目光                     | Ele estava **com um olhar atento** durante a apresentação. |
+| **com a mente clara**                    | 思路清晰                       | Ela falou **com a mente clara** e focada. |
+| **com a boca ligeiramente aberta**       | 嘴微微张开                     | Ela ficou **com a boca ligeiramente aberta** de surpresa. |
+| **com um olhar desafiador**              | 带着挑战的目光                 | Ele olhou para o adversário **com um olhar desafiador**. |
+| **com o cabelo preso em um coque**       | 头发盘成发髻                  | Ela estava **com o cabelo preso em um coque** elegante. |
 
 ##### 描绘人物的形容词
 
 | 形容词               | 释义                    | 示例                                       |
 |----------------------|-------------------------|--------------------------------------------|
-| **inteligente**      | 聪明的                  | Ele é muito **inteligente**。              |
-| **simpático**        | 友善的                  | Ela é **simpática** e acolhedora。        |
-| **diligente**        | 勤奋的                  | Ele é **diligente** no trabalho。          |
-| **gentil**           | 温柔的                  | Ela é sempre **gentil** com todos。       |
-| **extrovertido/a**   | 外向的                  | Ele é **extrovertido** e faz amigos facilmente。 |
-| **tímido/a**         | 害羞的                  | Ela é **tímida**, mas muito gentil。       |
-| **determinado/a**    | 有决心的                | Ele é **determinado** a alcançar seus objetivos。 |
-| **calmo/a**          | 冷静的                  | Ela é **calma** em situações difíceis。     |
-| **alegre**           | 快乐的                  | Ele é sempre **alegre** e divertido。      |
-| **sereno/a**         | 平静的                  | O ambiente era **sereno** e relaxante。    |
-| **arrogante**        | 傲慢的                  | Ele tem um comportamento **arrogante**。   |
-| **flexível**         | 灵活的                  | Ela é **flexível** e se adapta facilmente。 |
-| **responsável**      | 负责任的                | Ele é **responsável** por suas ações。     |
-| **otimista**         | 乐观的                  | Ela é **otimista** sobre o futuro。        |
-| **pessimista**       | 悲观的                  | Ele é **pessimista** em relação aos resultados。 |
-| **sincero/a**        | 诚实的                  | Ela é **sincera** nas suas opiniões。       |
-| **descontraído/a**   | 放松的                  | Ele é **descontraído** e sempre relaxado。  |
-| **criativo/a**       | 有创造力的              | Ela tem ideias **criativas** para resolver problemas。 |
-| **afetuoso/a**       | 亲切的                  | Ele é **afetuoso** com seus amigos。       |
-| **detalhista**       | 注重细节的              | Ela é **detalhista** em seu trabalho。     |
-| **tolerante**        | 容忍的                  | Ele é **tolerante** com as opiniões diferentes。 |
-| **vibrante**         | 充满活力的              | Ela é **vibrante** e cheia de energia。     |
-| **persuasivo/a**     | 有说服力的              | Ele é **persuasivo** em suas apresentações。 |
-| **avesso/a a conflitos** | 反对冲突的          | Ela é **avessa a conflitos** e prefere a paz。 |
-| **dúbio/a**          | 有疑虑的                | Ele parece **dúbio** sobre a decisão。      |
-| **introvertido/a**   | 内向的                  | Ela é **introvertida**, mas muito amigável。 |
-| **irresponsável**     | 不负责任的             | Ele é **irresponsável** em suas escolhas。  |
-| **destemido/a**      | 无畏的                  | Ela é **destemida** e enfrenta desafios。   |
-| **assertivo/a**      | 断言的                  | Ele é **assertivo** e sabe o que quer。    |
-| **prático/a**        | 实用的                  | Ela tem uma abordagem **prática** para resolver problemas。 |
-| **agitado/a**        | 焦躁的                  | Ele estava **agitado** antes da apresentação。 |
-| **guerreiro/guerreira** | 战士的               | Ela é uma verdadeira **guerreira** na luta pelos direitos。 |
-| **artístico/a**      | 艺术的                  | Ele tem uma veia **artística** em tudo que faz。 |
-| **focado/a**         | 专注的                  | Ela é **focada** em seus objetivos。        |
-| **respeitável**      | 受人尊敬的              | Ele é uma pessoa **respeitável** na comunidade。 |
+| **inteligente**      | 聪明的                  | Ele é muito **inteligente**.              |
+| **simpático**        | 友善的                  | Ela é **simpática** e acolhedora.        |
+| **diligente**        | 勤奋的                  | Ele é **diligente** no trabalho.          |
+| **gentil**           | 温柔的                  | Ela é sempre **gentil** com todos.       |
+| **extrovertido/a**   | 外向的                  | Ele é **extrovertido** e faz amigos facilmente. |
+| **tímido/a**         | 害羞的                  | Ela é **tímida**, mas muito gentil.       |
+| **determinado/a**    | 有决心的                | Ele é **determinado** a alcançar seus objetivos. |
+| **calmo/a**          | 冷静的                  | Ela é **calma** em situações difíceis.     |
+| **alegre**           | 快乐的                  | Ele é sempre **alegre** e divertido.      |
+| **sereno/a**         | 平静的                  | O ambiente era **sereno** e relaxante.    |
+| **arrogante**        | 傲慢的                  | Ele tem um comportamento **arrogante**.   |
+| **flexível**         | 灵活的                  | Ela é **flexível** e se adapta facilmente. |
+| **responsável**      | 负责任的                | Ele é **responsável** por suas ações.     |
+| **otimista**         | 乐观的                  | Ela é **otimista** sobre o futuro.        |
+| **pessimista**       | 悲观的                  | Ele é **pessimista** em relação aos resultados. |
+| **sincero/a**        | 诚实的                  | Ela é **sincera** nas suas opiniões.       |
+| **descontraído/a**   | 放松的                  | Ele é **descontraído** e sempre relaxado.  |
+| **criativo/a**       | 有创造力的              | Ela tem ideias **criativas** para resolver problemas. |
+| **afetuoso/a**       | 亲切的                  | Ele é **afetuoso** com seus amigos.       |
+| **detalhista**       | 注重细节的              | Ela é **detalhista** em seu trabalho.     |
+| **tolerante**        | 容忍的                  | Ele é **tolerante** com as opiniões diferentes. |
+| **vibrante**         | 充满活力的              | Ela é **vibrante** e cheia de energia.     |
+| **persuasivo/a**     | 有说服力的              | Ele é **persuasivo** em suas apresentações. |
+| **avesso/a a conflitos** | 反对冲突的          | Ela é **avessa a conflitos** e prefere a paz. |
+| **dúbio/a**          | 有疑虑的                | Ele parece **dúbio** sobre a decisão.      |
+| **introvertido/a**   | 内向的                  | Ela é **introvertida**, mas muito amigável. |
+| **irresponsável**     | 不负责任的             | Ele é **irresponsável** em suas escolhas.  |
+| **destemido/a**      | 无畏的                  | Ela é **destemida** e enfrenta desafios.   |
+| **assertivo/a**      | 断言的                  | Ele é **assertivo** e sabe o que quer.    |
+| **prático/a**        | 实用的                  | Ela tem uma abordagem **prática** para resolver problemas. |
+| **agitado/a**        | 焦躁的                  | Ele estava **agitado** antes da apresentação. |
+| **guerreiro/guerreira** | 战士的               | Ela é uma verdadeira **guerreira** na luta pelos direitos. |
+| **artístico/a**      | 艺术的                  | Ele tem uma veia **artística** em tudo que faz. |
+| **focado/a**         | 专注的                  | Ela é **focada** em seus objetivos.        |
+| **respeitável**      | 受人尊敬的              | Ele é uma pessoa **respeitável** na comunidade. |
 
 ##### 常见动作的单词和短语
 
 | 动作              | 释义                            | 示例                                             |
 |-------------------|---------------------------------|--------------------------------------------------|
-| **andar**         | 走                              | Ela gosta de **andar** no parque。                |
-| **correr**        | 跑                              | Ele decidiu **correr** todos os dias。            |
-| **sentar**        | 坐                              | Ela **sentou-se** na cadeira confortavelmente。   |
-| **levantar**      | 举起                            | Ele **levantou** a mão para fazer uma pergunta。   |
-| **falar**         | 说                              | Ela **falou** sobre seus planos para o futuro。   |
-| **escutar**       | 听                              | Ele estava **escutando** música。                 |
-| **rir**           | 笑                              | Eles **riram** juntos durante o filme。           |
-| **chorar**        | 哭                              | Ela **chorou** ao ouvir a notícia triste。         |
-| **brincar**       | 玩                              | As crianças estão **brincando** no parque。       |
-| **trabalhar**     | 工作                            | Ele **trabalha** em um escritório。               |
-| **caminhar**      | 散步                            | Ela gosta de **caminhar** à beira-mar。           |
+| **andar**         | 走                              | Ela gosta de **andar** no parque.                |
+| **correr**        | 跑                              | Ele decidiu **correr** todos os dias.            |
+| **sentar**        | 坐                              | Ela **sentou-se** na cadeira confortavelmente.   |
+| **levantar**      | 举起                            | Ele **levantou** a mão para fazer uma pergunta.   |
+| **falar**         | 说                              | Ela **falou** sobre seus planos para o futuro.   |
+| **escutar**       | 听                              | Ele estava **escutando** música.                |
+| **rir**           | 笑                              | Eles **riram** juntos durante o filme.           |
+| **chorar**        | 哭                              | Ela **chorou** ao ouvir a notícia triste.         |
+| **brincar**       | 玩                              | As crianças estão **brincando** no parque.       |
+| **trabalhar**     | 工作                            | Ele **trabalha** em um escritório.              |
+| **caminhar**      | 散步                            | Ela gosta de **caminhar** à beira-mar.           |
 | **pensar**        | 思考                            | Ele estava **pensando** em como resolver o problema。 |
-| **ajudar**        | 帮助                            | Ela **ajudou** o amigo com a lição de casa。      |
-| **sorrir**        | 微笑                            | Ele sempre **sorri** quando a vê。                |
-| **parar**         | 停止                            | Ele **parou** para admirar a paisagem。           |
-| **gritar**        | 喊                              | Ela **gritou** de alegria ao ver os amigos。      |
-| **respirar**      | 呼吸                            | Ele **respirou** fundo antes de falar。           |
-| **comer**         | 吃                              | Eles **comeram** no restaurante novo。             |
-| **beber**         | 喝                              | Ela **bebeu** um copo de água。                   |
-| **dormir**        | 睡觉                            | Ele **dorme** cedo durante a semana。             |
-| **descer**        | 下来                            | Ela **desceu** as escadas rapidamente。           |
-| **subir**         | 上升                            | Ele **subiu** no telhado para consertar。         |
-| **tocar**         | 触碰                            | Ela **tocou** a superfície da água。               |
-| **acariciar**     | 抚摸                            | Ele **acariciou** o cachorro com carinho。         |
-| **vestir**        | 穿衣服                        | Ela **vestiu** um vestido bonito para a festa。   |
+| **ajudar**        | 帮助                            | Ela **ajudou** o amigo com a lição de casa.      |
+| **sorrir**        | 微笑                            | Ele sempre **sorri** quando a vê.                |
+| **parar**         | 停止                            | Ele **parou** para admirar a paisagem.           |
+| **gritar**        | 喊                              | Ela **gritou** de alegria ao ver os amigos.      |
+| **respirar**      | 呼吸                            | Ele **respirou** fundo antes de falar.           |
+| **comer**         | 吃                              | Eles **comeram** no restaurante novo.             |
+| **beber**         | 喝                              | Ela **bebeu** um copo de água.                   |
+| **dormir**        | 睡觉                            | Ele **dorme** cedo durante a semana.             |
+| **descer**        | 下来                            | Ela **desceu** as escadas rapidamente.           |
+| **subir**         | 上升                            | Ele **subiu** no telhado para consertar.         |
+| **tocar**         | 触碰                            | Ela **tocou** a superfície da água.               |
+| **acariciar**     | 抚摸                            | Ele **acariciou** o cachorro com carinho.         |
+| **vestir**        | 穿衣服                        | Ela **vestiu** um vestido bonito para a festa.   |
