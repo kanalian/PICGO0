@@ -484,4 +484,35 @@ Note：发言并争取构思时间，将自己的回复与同伴的回复联系�
 | **agitado/a**        | 焦躁的                  | Ele estava **agitado** antes da apresentação。 |
 | **guerreiro/guerreira** | 战士的               | Ela é uma verdadeira **guerreira** na luta pelos direitos。 |
 | **artístico/a**      | 艺术的                  | Ele tem uma veia **artística** em tudo que faz。 |
-| **focado/a**         | 专注的                  | Ela é **focada**
+| **focado/a**         | 专注的                  | Ela é **focada** em seus objetivos。        |
+| **respeitável**      | 受人尊敬的              | Ele é uma pessoa **respeitável** na comunidade。 |
+
+##### 常见动作的单词和短语
+
+| 动作              | 释义                            | 示例                                             |
+|-------------------|---------------------------------|--------------------------------------------------|
+| **andar**         | 走                              | Ela gosta de **andar** no parque。                |
+| **correr**        | 跑                              | Ele decidiu **correr** todos os dias。            |
+| **sentar**        | 坐                              | Ela **sentou-se** na cadeira confortavelmente。   |
+| **levantar**      | 举起                            | Ele **levantou** a mão para fazer uma pergunta。   |
+| **falar**         | 说                              | Ela **falou** sobre seus planos para o futuro。   |
+| **escutar**       | 听                              | Ele estava **escutando** música。                 |
+| **rir**           | 笑                              | Eles **riram** juntos durante o filme。           |
+| **chorar**        | 哭                              | Ela **chorou** ao ouvir a notícia triste。         |
+| **brincar**       | 玩                              | As crianças estão **brincando** no parque。       |
+| **trabalhar**     | 工作                            | Ele **trabalha** em um escritório。               |
+| **caminhar**      | 散步                            | Ela gosta de **caminhar** à beira-mar。           |
+| **pensar**        | 思考                            | Ele estava **pensando** em como resolver o problema。 |
+| **ajudar**        | 帮助                            | Ela **ajudou** o amigo com a lição de casa。      |
+| **sorrir**        | 微笑                            | Ele sempre **sorri** quando a vê。                |
+| **parar**         | 停止                            | Ele **parou** para admirar a paisagem。           |
+| **gritar**        | 喊                              | Ela **gritou** de alegria ao ver os amigos。      |
+| **respirar**      | 呼吸                            | Ele **respirou** fundo antes de falar。           |
+| **comer**         | 吃                              | Eles **comeram** no restaurante novo。             |
+| **beber**         | 喝                              | Ela **bebeu** um copo de água。                   |
+| **dormir**        | 睡觉                            | Ele **dorme** cedo durante a semana。             |
+| **descer**        | 下来                            | Ela **desceu** as escadas rapidamente。           |
+| **subir**         | 上升                            | Ele **subiu** no telhado para consertar。         |
+| **tocar**         | 触碰                            | Ela **tocou** a superfície da água。               |
+| **acariciar**     | 抚摸                            | Ele **acariciou** o cachorro com carinho。         |
+| **vestir**        | 穿衣服                        | Ela **vestiu** um vestido bonito para a festa。   |
