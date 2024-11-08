@@ -468,16 +468,6 @@ Note：发言并争取构思时间，将自己的回复与同伴的回复联系�
 
 | 形容词               | 释义                    | 示例                                       |
 |----------------------|-------------------------|--------------------------------------------|
-
-| **enérgico/a**      | 精力充沛的  | Ela é **enérgica** e ativa.              |
-| **pacificador/a**   | 和事佬      | Ela é **pacificadora** e sempre tenta resolver conflitos. |
-| **duvidoso/a**      | 犹豫的      | Ele parece **duvidoso** sobre a escolha. |
-| **temerário/a**     | 莽撞的      | Ele é um pouco **temerário** nas decisões. |
-| **assertivo/a**     | 自信果断的  | Ela é bastante **assertiva**.            |
-| **prático/a**       | 实际的      | Ele tem uma abordagem **prática**.       |
-| **nervoso/a**       | 紧张的      | Ele estava **nervoso** antes do exame.   |
-| **lutador/a**       | 顽强的      | Ela é uma verdadeira **lutadora**.       |
-
 | **inteligente**      | 聪明的                  | Ele é muito **inteligente**.              |
 | **simpático**        | 友善的                  | Ela é **simpática** e acolhedora.        |
 | **diligente**        | 勤奋的                  | Ele é **diligente** no trabalho.          |
@@ -507,18 +497,24 @@ Note：发言并争取构思时间，将自己的回复与同伴的回复联系�
 | **detalhista**       | 注重细节的              | Ela é **detalhista** em seu trabalho.     |
 | **minucioso/a**      | 细致的                  | Ela é **minuciosa** em tudo o que faz.   |
 | **tolerante**        | 容忍的                  | Ele é **tolerante** e respeita opiniões diversas. |
+| **pacificador/a**    | 和事佬                 | Ela é **pacificadora** e sempre tenta resolver conflitos. |
 | **vibrante**         | 充满活力的              | Ela é **vibrante** e cheia de energia.     |
+| **enérgico/a**       | 精力充沛的              | Ela é **enérgica** e ativa.              |
 | **persuasivo/a**     | 有说服力的              | Ele é **persuasivo** nas suas apresentações. |
 | **avesso/a a conflitos** | 反对冲突的          | Ela é **avessa a conflitos** e prefere a paz. |
 | **dúbio/a**          | 有疑虑的                | Ele parece **dúbio** sobre a decisão.      |
+| **duvidoso/a**        | 犹豫的                 | Ele parece **duvidoso** sobre a escolha. |
 | **introvertido/a**   | 内向的                  | Ela é **introvertida**, mas muito amigável. |
 | **responsável**      | 负责的                  | Ele é muito **responsável** em tudo que faz. |
 | **irresponsável**     | 不负责任的             | Ele é **irresponsável** em suas escolhas.  |
 | **destemido/a**      | 无畏的                  | Ela é **destemida** e enfrenta desafios.   |
+| **temerário/a**      | 莽撞的                  | Ele é um pouco **temerário** nas decisões. |
 | **assertivo/a**      | 断言的                  | Ele é **assertivo** e sabe o que quer.    |
 | **prático/a**        | 实用的                  | Ela tem uma abordagem **prática** para resolver problemas. |
+| **nervoso/a**        | 紧张的                  | Ele estava **nervoso** antes do exame.   |
 | **agitado/a**        | 焦躁的                  | Ele estava **agitado** antes da apresentação. |
 | **guerreiro/guerreira** | 战士的               | Ela é uma verdadeira **guerreira** na luta pelos direitos. |
+| **lutador/a**           | 顽强的               | Ela é uma verdadeira **lutadora**.       |
 | **artístico/a**      | 艺术的                  | Ele tem uma veia **artística** em tudo que faz. |
 | **focado/a**         | 专注的                  | Ela é bastante **focada** nos objetivos.        |
 | **respeitável**      | 值得尊敬的              | Ele é uma pessoa **respeitável** na comunidade.   |
