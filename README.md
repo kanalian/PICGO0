@@ -402,6 +402,18 @@ Note：做出精确而准确的描述，识别事物特征，可以滥用形容�
 
 Note：亮度、颜色、大小、人物神态/外貌/衣着描述、方位、数目、场合、家居物品、动物、食物……都很重要。避免是或否的响应式答复，采用开放式沟通，加入口头语和感叹词。
 
+e.g.
+
+Descrição da Imagem:
+
+Na imagem, vejo um casal de jovens caminhando por um parque arborizado em um dia ensolarado. O homem, à esquerda, está usando uma camiseta branca e calças jeans. Ele está de mãos dadas com a mulher, que está vestindo um vestido floral leve e sandálias. Ambos parecem relaxados e sorridentes. Atrás deles, há várias árvores com folhas verdes brilhantes, e à direita da imagem, uma fonte de água está jorrando suavemente.
+
+Ao fundo, algumas pessoas podem ser vistas sentadas em bancos, conversando ou olhando para os celulares. O céu está claro, sem nuvens, e a luz do sol cria sombras longas no chão. O ambiente parece muito tranquilo, sugerindo que o parque é um local comum para lazer e descanso.
+
+Além disso, noto que há um cachorro pequeno correndo à frente do casal, com a língua para fora, parecendo muito animado. O cachorro está usando uma coleira vermelha e corre livremente pela grama verde. Isso dá um toque de alegria e diversão à cena.
+
+No geral, a imagem transmite uma sensação de paz, alegria e contato com a natureza. Parece ser um dia perfeito para relaxar ao ar livre e aproveitar a companhia das pessoas queridas.
+
 ```
 第三部分：观点讨论
 ```
@@ -423,19 +435,26 @@ Note：发言并争取构思时间，将自己的回复与同伴的回复联系�
 | **com os braços cruzados**               | 双臂交叉                       | Ela ficou **com os braços cruzados** durante a discussão. |
 | **com a cabeça baixa**                   | 低着头                         | Ele ficou **com a cabeça baixa** de vergonha.     |
 | **com uma postura relaxada**              | 放松的姿势                     | Ela estava **com uma postura relaxada** no sofá.  |
+| **com uma postura descontraída**          | 随意的姿态                     | Ela estava **com uma postura descontraída**.  |
 | **com um sorriso tímido**                 | 害羞的微笑                     | Ele ofereceu um **sorriso tímido** ao se apresentar. |
+| **com um sorriso ligeiro**                | 略带微笑                       | Ele esboçou **um sorriso ligeiro** ao falar.    |
 | **com a mão na cintura**                 | 手放在腰间                     | Ela ficou **com a mão na cintura**, pronta para discutir. |
+| **com a mão na anca**                    | 手放在腰间                     | Ela estava **com a mão na anca**.  |
 | **com a respiração ofegante**             | 呼吸急促                       | Ela chegou **com a respiração ofegante** após correr. |
+| **a respirar ofegante**                   | 气喘吁吁                       | Ele chegou **a respirar ofegante** depois de correr. |
 | **com um toque de alegria**              | 带着一丝喜悦                   | Ele falou **com um toque de alegria** ao mencionar suas férias. |
 | **com um olhar de alívio**               | 带着释然的目光                 | Ela saiu **com um olhar de alívio** após a prova. |
+| **com uma expressão de alívio**          | 释然的表情                     | Ela saiu **com uma expressão de alívio**.  |
 | **com as mãos trêmulas**                 | 手微微颤抖                     | Ele entrou **com as mãos trêmulas** de nervosismo. |
+| **com as mãos a tremer**                 | 手微微发抖                     | Ele entrou **com as mãos a tremer**.  |
 | **com a pele bronzeada**                 | 皮肤晒黑                       | Ele voltou das férias **com a pele bronzeada**.  |
-| **com os olhos brilhando**                | 眼睛闪烁                      | Os olhos dela estavam **brilhando** de felicidade. |
+| **com os olhos brilhantes**              | 闪闪发光的眼睛                 | Ela olhou para ele **com os olhos brilhantes**.  |
 | **com um sorriso satisfeito**            | 满意的微笑                    | Ele saiu **com um sorriso satisfeito** após a reunião. |
-| **com os olhos arregalados**             | 眼睛睁得大大的                 | Ela ficou **com os olhos arregalados** de surpresa. |
+| **com os olhos arregalados**             | 眼睛睁得大大的                 | Ela ficou **com um olhar arregalado** ao ver a surpresa.|
 | **com a cabeça inclinada**               | 头微微倾斜                    | Ele a olhou **com a cabeça inclinada**, curioso. |
 | **com um semblante triste**              | 带着悲伤的面容                 | Ele entrou **com um semblante triste** após receber a notícia. |
 | **com um semblante radiante**            | 带着灿烂的神态                 | Ele entrou **com um semblante radiante** de felicidade. |
+| **com o semblante sério**                | 表情严肃                      | Ele estava **com o semblante sério**.   |
 | **com as costas arqueadas**              | 背部微微弯曲                  | Ele estava **com as costas arqueadas** de cansaço. |
 | **com um gesto de desapontamento**       | 失望的姿态                    | Ela fez **um gesto de desapontamento** ao ouvir a resposta. |
 | **com as mãos nos quadris**              | 双手放在臀部                  | Ela ficou **com as mãos nos quadris**, impaciente. |
