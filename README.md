@@ -548,12 +548,8 @@ Note：发言并争取构思时间，将自己的回复与同伴的回复联系�
 | **beber**         | 喝                              | Ela **bebeu** um copo de água fresca.            |
 | **dormir**        | 睡觉                            | Ele **dorme** cedo durante a semana.             |
 | **descer**        | 下来                            | Ela **desceu** as escadas devagar.               |
-| **subir**         | 上升                            | Ele **subiu** no telhado para consertar.         |
-| **tocar**         | 触碰                            | Ela **tocou** a superfície da água.               |
-| **acariciar**     | 抚摸                            | Ele **acariciou** o cachorro com carinho.         |
+| **subir**         | 上升                            | Ele **subiu** ao último andar.                   |
+| **tocar**         | 触碰                            | Ela **tocou** suavemente no ombro dele.          |
+| **acariciar**     | 抚摸                            | Ele **acariciou** o cachorro com carinho.        |
 | **afagar**        | 抚摸                           | Ele **afagou** o cão com carinho.               |
 | **vestir**        | 穿衣服                        | Ela **vestiu** um vestido bonito para a festa.   |
-
-| **subir**           | 上楼                         | Ele **subiu** ao último andar.                  |
-| **tocar**           | 触摸                         | Ela **tocou** suavemente no ombro dele.         |
-
