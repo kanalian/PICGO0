@@ -404,8 +404,6 @@ Note：亮度、颜色、大小、人物神态/外貌/衣着描述、方位、�
 
 e.g.
 
-Descrição da Imagem:
-
 Na imagem, vejo um casal de jovens caminhando por um parque arborizado em um dia ensolarado. O homem, à esquerda, está usando uma camiseta branca e calças jeans. Ele está de mãos dadas com a mulher, que está vestindo um vestido floral leve e sandálias. Ambos parecem relaxados e sorridentes. Atrás deles, há várias árvores com folhas verdes brilhantes, e à direita da imagem, uma fonte de água está jorrando suavemente.
 
 Ao fundo, algumas pessoas podem ser vistas sentadas em bancos, conversando ou olhando para os celulares. O céu está claro, sem nuvens, e a luz do sol cria sombras longas no chão. O ambiente parece muito tranquilo, sugerindo que o parque é um local comum para lazer e descanso.
@@ -470,32 +468,51 @@ Note：发言并争取构思时间，将自己的回复与同伴的回复联系�
 
 | 形容词               | 释义                    | 示例                                       |
 |----------------------|-------------------------|--------------------------------------------|
+
+| **enérgico/a**      | 精力充沛的  | Ela é **enérgica** e ativa.              |
+| **pacificador/a**   | 和事佬      | Ela é **pacificadora** e sempre tenta resolver conflitos. |
+| **duvidoso/a**      | 犹豫的      | Ele parece **duvidoso** sobre a escolha. |
+| **temerário/a**     | 莽撞的      | Ele é um pouco **temerário** nas decisões. |
+| **assertivo/a**     | 自信果断的  | Ela é bastante **assertiva**.            |
+| **prático/a**       | 实际的      | Ele tem uma abordagem **prática**.       |
+| **nervoso/a**       | 紧张的      | Ele estava **nervoso** antes do exame.   |
+| **lutador/a**       | 顽强的      | Ela é uma verdadeira **lutadora**.       |
+
 | **inteligente**      | 聪明的                  | Ele é muito **inteligente**.              |
 | **simpático**        | 友善的                  | Ela é **simpática** e acolhedora.        |
 | **diligente**        | 勤奋的                  | Ele é **diligente** no trabalho.          |
+| **amável**           | 和蔼可亲的              | Ela é muito **amável** com todos.        |
 | **gentil**           | 温柔的                  | Ela é sempre **gentil** com todos.       |
 | **extrovertido/a**   | 外向的                  | Ele é **extrovertido** e faz amigos facilmente. |
+| **reservado/a**      | 含蓄的                  | Ela é **reservada** em relação à sua vida pessoal. |
 | **tímido/a**         | 害羞的                  | Ela é **tímida**, mas muito gentil.       |
 | **determinado/a**    | 有决心的                | Ele é **determinado** a alcançar seus objetivos. |
+| **decidido/a**       | 果断的                  | Ele é **decidido** nas suas escolhas.    |
 | **calmo/a**          | 冷静的                  | Ela é **calma** em situações difíceis.     |
+| **bem-disposto/a**   | 精神愉快的              | Ele está sempre **bem-disposto** e alegre. |
 | **alegre**           | 快乐的                  | Ele é sempre **alegre** e divertido.      |
 | **sereno/a**         | 平静的                  | O ambiente era **sereno** e relaxante.    |
 | **arrogante**        | 傲慢的                  | Ele tem um comportamento **arrogante**.   |
+| **presunçoso/a**     | 自负的                  | Ele é muito **presunçoso** para aceitar conselhos. |
+| **maleável**         | 容易适应的              | Ela é **maleável** e flexível.           |
 | **flexível**         | 灵活的                  | Ela é **flexível** e se adapta facilmente. |
-| **responsável**      | 负责任的                | Ele é **responsável** por suas ações.     |
 | **otimista**         | 乐观的                  | Ela é **otimista** sobre o futuro.        |
 | **pessimista**       | 悲观的                  | Ele é **pessimista** em relação aos resultados. |
+| **franco/a**         | 坦率的                  | Ela é **franca** e não esconde nada.      |
 | **sincero/a**        | 诚实的                  | Ela é **sincera** nas suas opiniões.       |
-| **descontraído/a**   | 放松的                  | Ele é **descontraído** e sempre relaxado.  |
+| **descontraído/a**   | 随性的                  | Ele é **descontraído** e sempre relaxado.  |
 | **criativo/a**       | 有创造力的              | Ela tem ideias **criativas** para resolver problemas. |
+| **atencioso/a**      | 体贴的                  | Ele é muito **atencioso** com os outros. |
 | **afetuoso/a**       | 亲切的                  | Ele é **afetuoso** com seus amigos.       |
 | **detalhista**       | 注重细节的              | Ela é **detalhista** em seu trabalho.     |
-| **tolerante**        | 容忍的                  | Ele é **tolerante** com as opiniões diferentes. |
+| **minucioso/a**      | 细致的                  | Ela é **minuciosa** em tudo o que faz.   |
+| **tolerante**        | 容忍的                  | Ele é **tolerante** e respeita opiniões diversas. |
 | **vibrante**         | 充满活力的              | Ela é **vibrante** e cheia de energia.     |
-| **persuasivo/a**     | 有说服力的              | Ele é **persuasivo** em suas apresentações. |
+| **persuasivo/a**     | 有说服力的              | Ele é **persuasivo** nas suas apresentações. |
 | **avesso/a a conflitos** | 反对冲突的          | Ela é **avessa a conflitos** e prefere a paz. |
 | **dúbio/a**          | 有疑虑的                | Ele parece **dúbio** sobre a decisão.      |
 | **introvertido/a**   | 内向的                  | Ela é **introvertida**, mas muito amigável. |
+| **responsável**      | 负责的                  | Ele é muito **responsável** em tudo que faz. |
 | **irresponsável**     | 不负责任的             | Ele é **irresponsável** em suas escolhas.  |
 | **destemido/a**      | 无畏的                  | Ela é **destemida** e enfrenta desafios.   |
 | **assertivo/a**      | 断言的                  | Ele é **assertivo** e sabe o que quer.    |
@@ -503,8 +520,10 @@ Note：发言并争取构思时间，将自己的回复与同伴的回复联系�
 | **agitado/a**        | 焦躁的                  | Ele estava **agitado** antes da apresentação. |
 | **guerreiro/guerreira** | 战士的               | Ela é uma verdadeira **guerreira** na luta pelos direitos. |
 | **artístico/a**      | 艺术的                  | Ele tem uma veia **artística** em tudo que faz. |
-| **focado/a**         | 专注的                  | Ela é **focada** em seus objetivos.        |
-| **respeitável**      | 受人尊敬的              | Ele é uma pessoa **respeitável** na comunidade. |
+| **focado/a**         | 专注的                  | Ela é bastante **focada** nos objetivos.        |
+| **respeitável**      | 值得尊敬的              | Ele é uma pessoa **respeitável** na comunidade.   |
+| **respeitado/a**     | 受人尊敬的              | Ele é **respeitado** por todos.           |
+
 
 ##### 常见动作的单词和短语
 
