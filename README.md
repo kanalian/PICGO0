@@ -357,7 +357,7 @@ Note：语法正确还不够，必须符合句子原本的含义。
 
 Note：
 1. 短期记忆并听的同时理解，同步捕捉关键词。
-（材料参考：90 Segundos de Ciência, [RTP](https://ensina.rtp.pt/artigo/post-it-e-ambiente/)）
+（材料参考：90 Segundos de Ciência, [RTP](https://ensina.rtp.pt/artigo/post-it-e-ambiente/), [RTP Play](https://www.rtp.pt/play/)）
 2. 一般而言，短期记忆留有7个单词，尽可能将它们转化为七个单词组。
 3. 将注意力集中在捕捉的关键词上，没必要知道文本中出现的每个单词才能理解它。
 4. 识别干扰因素，分为音节类似但含义不同和含义相同但单词不同。
