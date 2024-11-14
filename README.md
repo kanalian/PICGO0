@@ -553,3 +553,15 @@ Note：发言并争取构思时间，将自己的回复与同伴的回复联系�
 | **acariciar**     | 抚摸                            | Ele **acariciou** o cachorro com carinho.        |
 | **afagar**        | 抚摸                           | Ele **afagou** o cão com carinho.               |
 | **vestir**        | 穿衣服                        | Ela **vestiu** um vestido bonito para a festa.   |
+
+
+
+-------
+## 考后回顾
+### 阅读
+重点不在于你到底背了多少新单词，因为考卷里永远都会出现你不认识的词。训练的目的在于提高自己阅读速度的同时保证准确率。
+## 口语
+两分钟基础问题寒暄：简单问题回答
+1+3分钟看图说话：描述画面+潜在问题+引出话题思索
+六分钟相互对话：主题，承接对方+完成自己的部分，扩展词汇和表达方式
+## 作文
