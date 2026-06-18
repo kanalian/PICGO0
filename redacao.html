@@ -1,58 +1,140 @@
 
-<html lang="zh-CN">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>作文素材</title>
+  <title>葡语作文素材合集</title>
   <style>
+    :root {
+      --bg: #f6f7f9;
+      --card: #ffffff;
+      --text: #222222;
+      --muted: #6b7280;
+      --heading: #111827;
+      --line: #374151;
+      --soft-line: #d1d5db;
+      --shadow: 0 3px 12px rgba(0, 0, 0, 0.06);
+      --radius: 14px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, "Microsoft YaHei", sans-serif;
-      line-height: 1.7;
-      color: #222;
-      background: #f7f7f7;
       margin: 0;
       padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, "Microsoft YaHei", sans-serif;
+      line-height: 1.8;
+      color: var(--text);
+      background: var(--bg);
     }
 
     .container {
-      max-width: 960px;
+      max-width: 1100px;
       margin: 0 auto;
-      padding: 40px 20px;
+      padding: 40px 20px 80px;
     }
 
     h1 {
       text-align: center;
-      font-size: 36px;
-      margin-bottom: 40px;
-      color: #1f2937;
+      font-size: 38px;
+      margin: 0 0 18px;
+      color: var(--heading);
     }
 
-    h2 {
-      font-size: 28px;
-      margin-top: 48px;
-      margin-bottom: 20px;
-      padding-bottom: 8px;
-      border-bottom: 3px solid #333;
+    .subtitle {
+      text-align: center;
+      color: var(--muted);
+      margin-bottom: 34px;
+    }
+
+    .toc {
+      background: var(--card);
+      border-radius: var(--radius);
+      padding: 22px 26px;
+      margin-bottom: 42px;
+      box-shadow: var(--shadow);
+    }
+
+    .toc h2 {
+      margin: 0 0 14px;
+      font-size: 22px;
+      color: var(--heading);
+      border: none;
+      padding: 0;
+    }
+
+    .toc ul {
+      margin: 0;
+      padding-left: 22px;
+      columns: 2;
+    }
+
+    .toc a {
       color: #111827;
+      text-decoration: none;
+    }
+
+    .toc a:hover {
+      text-decoration: underline;
+    }
+
+    .page {
+      margin-bottom: 60px;
+    }
+
+    .page-title {
+      font-size: 32px;
+      margin: 0 0 28px;
+      padding-bottom: 10px;
+      border-bottom: 4px solid var(--line);
+      color: var(--heading);
+    }
+
+    .section-title {
+      font-size: 26px;
+      margin: 34px 0 20px;
+      color: var(--heading);
+    }
+
+    .card,
+    .letter,
+    .essay {
+      background: var(--card);
+      border-radius: var(--radius);
+      padding: 30px 34px;
+      margin-bottom: 32px;
+      box-shadow: var(--shadow);
+    }
+
+    .card h3,
+    .letter h3,
+    .essay h3 {
+      font-size: 24px;
+      margin: 0 0 24px;
+      padding-bottom: 10px;
+      border-bottom: 3px solid var(--line);
+      color: var(--heading);
     }
 
     .item {
-      background: #fff;
+      background: var(--card);
       border-radius: 12px;
       padding: 20px 24px;
       margin-bottom: 18px;
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+      box-shadow: var(--shadow);
     }
 
     .phrase {
       font-size: 20px;
       font-weight: 700;
-      color: #111827;
+      color: var(--heading);
       margin-bottom: 8px;
     }
 
     .meaning {
-      color: #6b7280;
+      color: var(--muted);
       font-weight: 500;
       margin-left: 6px;
     }
@@ -60,7 +142,7 @@
     .example {
       margin-top: 10px;
       padding-left: 14px;
-      border-left: 4px solid #d1d5db;
+      border-left: 4px solid var(--soft-line);
       color: #374151;
       font-style: italic;
     }
@@ -70,121 +152,182 @@
       color: #4b5563;
     }
 
-    .pt {
-      color: #111827;
+    .date {
+      margin-bottom: 18px;
+      color: #374151;
+      font-weight: 500;
     }
 
-    .zh {
-      color: #6b7280;
+    .subject {
+      margin-bottom: 22px;
+      font-weight: 700;
+      color: var(--heading);
+    }
+
+    .salutation {
+      margin-bottom: 18px;
+      font-weight: 600;
+    }
+
+    p {
+      margin: 0 0 18px;
+      text-align: justify;
+    }
+
+    .closing {
+      margin-top: 24px;
+    }
+
+    .signature {
+      margin-top: 6px;
+      font-weight: 600;
+    }
+
+    @media (max-width: 720px) {
+      .container {
+        padding: 28px 14px 60px;
+      }
+
+      h1 {
+        font-size: 30px;
+      }
+
+      .page-title {
+        font-size: 27px;
+      }
+
+      .toc ul {
+        columns: 1;
+      }
+
+      .card,
+      .letter,
+      .essay,
+      .item {
+        padding: 22px 20px;
+      }
     }
   </style>
 </head>
 
 <body>
   <main class="container">
-    <h1>作文素材</h1>
+    <h1>葡语作文素材合集</h1>
+    <div class="subtitle">作文素材、建议信、提案信、议论文、投诉信、叙述文整合版</div>
 
-    <section>
-      <h2>高级词组</h2>
+    <nav class="toc">
+      <h2>目录</h2>
+      <ul>
+        <li><a href="#materials">作文素材</a></li>
+        <li><a href="#suggestion-letters">建议信</a></li>
+        <li><a href="#proposal-letters">提案信</a></li>
+        <li><a href="#argumentative-essays">议论文</a></li>
+        <li><a href="#complaint-letters">投诉信</a></li>
+        <li><a href="#narrative-essays">叙述文</a></li>
+      </ul>
+    </nav>
+
+    <section id="materials" class="page">
+      <h2 class="page-title">作文素材</h2>
+
+      <h3 class="section-title">高级词组</h3>
 
       <article class="item">
-        <div class="phrase"><span class="pt">tapar o sol com a peneira</span><span class="meaning">自欺欺人 / 筛子遮日</span></div>
+        <div class="phrase">tapar o sol com a peneira <span class="meaning">自欺欺人 / 筛子遮日</span></div>
         <div class="example">Ignorar a desigualdade salarial seria tapar o sol com a peneira.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">apenas a ponta do icebergue</span><span class="meaning">只是……的冰山一角</span></div>
+        <div class="phrase">apenas a ponta do icebergue <span class="meaning">只是……的冰山一角</span></div>
         <div class="example">A dependência dos jovens em relação ao telemóvel é apenas a ponta do icebergue de um problema mais amplo: a fragilidade da atenção.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">pagar a fatura</span><span class="meaning">为……买单 / 支付代价</span></div>
+        <div class="phrase">pagar a fatura <span class="meaning">为……买单 / 支付代价</span></div>
         <div class="example">Se o consumo continuar sem limites, serão os mais vulneráveis a pagar a fatura da crise ambiental.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">pôr o dedo na ferida</span><span class="meaning">触动敏感神经</span></div>
+        <div class="phrase">pôr o dedo na ferida <span class="meaning">触动敏感神经</span></div>
         <div class="example">A discussão sobre o voluntariado põe o dedo na ferida: a boa vontade individual não substitui políticas sociais consistentes.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">dar um passo maior do que a perna</span><span class="meaning">步子太大扯到蛋</span></div>
+        <div class="phrase">dar um passo maior do que a perna <span class="meaning">步子太大扯到蛋</span></div>
         <div class="example">Ao digitalizar todos os serviços sem preparar os cidadãos, o Estado corre o risco de dar um passo maior do que a perna.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">não há bela sem senão</span><span class="meaning">世无完美之物</span></div>
+        <div class="phrase">não há bela sem senão <span class="meaning">世无完美之物</span></div>
         <div class="example">A inteligência artificial oferece oportunidades enormes, mas não há bela sem senão: os riscos éticos são igualmente reais.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">dois pesos e duas medidas</span><span class="meaning">双重标准</span></div>
+        <div class="phrase">dois pesos e duas medidas <span class="meaning">双重标准</span></div>
         <div class="example">Quando a ambição masculina é valorizada e a feminina é censurada, estamos perante dois pesos e duas medidas.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">fazer vista grossa</span><span class="meaning">视而不见 / 空睁眼</span></div>
+        <div class="phrase">fazer vista grossa <span class="meaning">视而不见 / 空睁眼</span></div>
         <div class="example">Fazer vista grossa perante a poluição industrial significa transferir custos ambientais para as gerações futuras.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">entre a espada e a parede</span><span class="meaning">进退两难 / 剑锋与墙壁之间</span></div>
+        <div class="phrase">entre a espada e a parede <span class="meaning">进退两难 / 剑锋与墙壁之间</span></div>
         <div class="example">Muitas famílias encontram-se entre a espada e a parede: precisam de trabalhar longas horas, mas também desejam acompanhar os filhos.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">valioso, mas não faz milagres</span><span class="meaning">有价值，但不能创造奇迹</span></div>
+        <div class="phrase">valioso, mas não faz milagres <span class="meaning">有价值，但不能创造奇迹</span></div>
         <div class="example">O voluntariado é valioso, mas não faz milagres quando faltam políticas públicas consistentes.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">ficar aquém do necessário para</span><span class="meaning">远不足以……</span></div>
+        <div class="phrase">ficar aquém do necessário para <span class="meaning">远不足以……</span></div>
         <div class="example">As medidas atuais ficam aquém do necessário para enfrentar a gravidade da crise ambiental.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">lançar luz sobre</span><span class="meaning">揭示 / 照亮</span></div>
+        <div class="phrase">lançar luz sobre <span class="meaning">揭示 / 照亮</span></div>
         <div class="example">Esta experiência lançou luz sobre uma forma de solidão que raramente aparece nas estatísticas.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">estar na ordem do dia</span><span class="meaning">成为当下热点</span></div>
+        <div class="phrase">estar na ordem do dia <span class="meaning">成为当下热点</span></div>
         <div class="example">A proteção de dados pessoais está na ordem do dia.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">dar voz a</span><span class="meaning">赋予发言权</span></div>
+        <div class="phrase">dar voz a <span class="meaning">赋予发言权</span></div>
         <div class="example">A educação deve dar voz aos alunos, em vez de os reduzir a resultados numéricos.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">à custa de</span><span class="meaning">以……为代价</span></div>
+        <div class="phrase">à custa de <span class="meaning">以……为代价</span></div>
         <div class="example">Não se deve promover a eficiência à custa da dignidade humana.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">varrer o problema para debaixo do tapete</span><span class="meaning">眼不见为净 / 扫入毯子底下</span></div>
+        <div class="phrase">varrer o problema para debaixo do tapete <span class="meaning">眼不见为净 / 扫入毯子底下</span></div>
         <div class="example">Adiar a discussão sobre privacidade digital é apenas varrer o problema para debaixo do tapete.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">chover no molhado</span><span class="meaning">老生常谈 / 雨落地湿</span></div>
+        <div class="phrase">chover no molhado <span class="meaning">老生常谈 / 雨落地湿</span></div>
         <div class="example">Dizer que devemos proteger o ambiente pode parecer chover no molhado; a verdadeira questão é saber que medidas estamos dispostos a aceitar.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">ficar no papel</span><span class="meaning">停在纸面上</span></div>
+        <div class="phrase">ficar no papel <span class="meaning">停在纸面上</span></div>
         <div class="example">Sem fiscalização, qualquer política ambiental corre o risco de ficar no papel.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">passar das palavras aos atos</span><span class="meaning">从口头变成行动</span></div>
+        <div class="phrase">passar das palavras aos atos <span class="meaning">从口头变成行动</span></div>
         <div class="example">No combate ao desperdício, é urgente passar das palavras aos atos.</div>
       </article>
-    </section>
 
-    <section>
-      <h2>句式类型</h2>
+      <h3 class="section-title">句式类型</h3>
 
       <article class="item">
         <div class="phrase">Seria injusto transferir toda a responsabilidade para o indivíduo.</div>
@@ -280,47 +423,357 @@
         <div class="phrase">O futuro não deve ser construído à custa daqueles que têm menos capacidade de se defender.</div>
         <div class="translation">未来不应以牺牲最无力自卫者为代价来建设。</div>
       </article>
-    </section>
 
-    <section>
-      <h2>谚语俗语</h2>
+      <h3 class="section-title">谚语俗语</h3>
 
       <article class="item">
-        <div class="phrase"><span class="pt">De boas intenções está o inferno cheio.</span><span class="meaning">光有好心是不够的。</span></div>
+        <div class="phrase">De boas intenções está o inferno cheio. <span class="meaning">光有好心是不够的。</span></div>
         <div class="example">No voluntariado, como na política social, de boas intenções está o inferno cheio: é preciso ajudar sem humilhar nem simplificar a realidade do outro.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">Quem semeia ventos colhe tempestades.</span><span class="meaning">自食恶果。</span></div>
+        <div class="phrase">Quem semeia ventos colhe tempestades. <span class="meaning">自食恶果。</span></div>
         <div class="example">Uma sociedade que ignora a desigualdade acaba por confirmar o velho provérbio: quem semeia ventos colhe tempestades.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">A pressa é inimiga da perfeição.</span><span class="meaning">欲速则不达。</span></div>
+        <div class="phrase">A pressa é inimiga da perfeição. <span class="meaning">欲速则不达。</span></div>
         <div class="example">A pressa é inimiga da perfeição, sobretudo quando políticas públicas são substituídas por soluções imediatas.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">Mais vale prevenir do que remediar.</span><span class="meaning">预防胜于补救。</span></div>
+        <div class="phrase">Mais vale prevenir do que remediar. <span class="meaning">预防胜于补救。</span></div>
         <div class="example">No domínio ambiental, mais vale prevenir do que remediar, pois certos danos são irreversíveis.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">Nem tudo o que reluz é ouro.</span><span class="meaning">外表华丽，腹内草莽。</span></div>
+        <div class="phrase">Nem tudo o que reluz é ouro. <span class="meaning">外表华丽，腹内草莽。</span></div>
         <div class="example">Nem tudo o que reluz é ouro: um centro comercial luxuoso pode esconder desequilíbrios sociais profundos.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">Quem tudo quer tudo perde.</span><span class="meaning">贪多必失。</span></div>
+        <div class="phrase">Quem tudo quer tudo perde. <span class="meaning">贪多必失。</span></div>
         <div class="example">Numa cultura de consumo permanente, convém lembrar que quem tudo quer tudo perde: ao procurar possuir sempre mais, arriscamo-nos a perder equilíbrio e consciência.</div>
       </article>
 
       <article class="item">
-        <div class="phrase"><span class="pt">O barato sai caro.</span><span class="meaning">贪小便宜吃大亏。</span></div>
+        <div class="phrase">O barato sai caro. <span class="meaning">贪小便宜吃大亏。</span></div>
         <div class="example">Quando se escolhem soluções ambientais apenas por serem baratas, esquece-se que, muitas vezes, o barato sai caro.</div>
+      </article>
+    </section>
+
+    <section id="suggestion-letters" class="page">
+      <h2 class="page-title">建议信</h2>
+
+      <article class="letter">
+        <h3>反对拆除图书馆</h3>
+
+        <div class="date">Porto, 14 de maio de 2026</div>
+        <div class="subject">Assunto: Pedido de reconsideração do encerramento das bibliotecas municipais</div>
+        <div class="salutation">Exmo. Senhor Presidente da Câmara Municipal,</div>
+
+        <p>Tendo tomado conhecimento da intenção de demolir três bibliotecas públicas, alegadamente por falta de utilização e por custos de manutenção excessivos, venho solicitar a V. Ex.ª que reconsidere tal decisão. Embora compreenda as restrições orçamentais da autarquia, considero que destruir estes equipamentos seria uma solução precipitada e socialmente empobrecedora.</p>
+
+        <p>A baixa frequência não prova inutilidade; revela, muitas vezes, horários inadequados, divulgação insuficiente e ausência de programação atrativa. Uma biblioteca moderna pode ser sala de estudo, centro digital, espaço de leitura infantil, apoio a idosos e ponto de encontro intercultural. Em bairros onde nem todas as famílias dispõem de livros, computadores ou silêncio, a biblioteca continua a ser uma forma concreta de igualdade.</p>
+
+        <p>Proponho, por isso, que se realize uma consulta pública antes de qualquer demolição. Paralelamente, poderiam ser testados horários pós-laborais, parcerias com escolas e universidades, clubes de leitura, oficinas de literacia digital e reaproveitamento parcial dos edifícios para serviços comunitários. Tais medidas custariam menos do que reconstruir, no futuro, aquilo que hoje se pretende apagar.</p>
+
+        <p>Peço, assim, que a Câmara suspenda o projeto e transforme as bibliotecas em espaços vivos, em vez de as condenar por não terem sido devidamente valorizadas.</p>
+
+        <div class="closing">Com elevada consideração,</div>
+        <div class="signature">Ana Martins</div>
+      </article>
+
+      <article class="letter">
+        <h3>忧心机器人发展</h3>
+
+        <div class="date">Lisboa, 13 de maio de 2026</div>
+        <div class="subject">Assunto: Medidas para salvaguardar o bem-estar na era da robotização</div>
+        <div class="salutation">Exmos. Senhores do Ministério da Felicidade e Sobrevivência,</div>
+
+        <p>Dirijo-me a V. Ex.as na qualidade de cidadã preocupada com a rápida substituição de postos de trabalho por robôs. A automatização pode libertar as pessoas de tarefas perigosas e repetitivas; contudo, se for deixada exclusivamente ao mercado, criará desemprego estrutural, perda de rendimento e uma sensação generalizada de inutilidade social.</p>
+
+        <p>Proponho, em primeiro lugar, que se institua um fundo nacional de transição, financiado por uma taxa sobre ganhos extraordinários de produtividade, destinado à requalificação profissional e ao apoio temporário dos trabalhadores deslocados. Em segundo lugar, cada empresa que automatize funções deveria apresentar um plano de impacto humano, indicando quantos colaboradores serão reconvertidos, em que prazos e com que formação. Além disso, convém reforçar serviços públicos de saúde mental e criar centros comunitários onde idosos, jovens e desempregados possam desenvolver projetos sociais, artísticos ou científicos. Sugiro ainda a publicação anual de indicadores sobre emprego, salários e satisfação, para que a política seja corrigida antes de produzir danos irreversíveis.</p>
+
+        <p>A robotização não deve ser travada, mas civilizada. Se a tecnologia aumentar apenas os lucros, empobrecerá a democracia; se for acompanhada por políticas justas, poderá ampliar a liberdade humana.</p>
+
+        <div class="closing">Com os melhores cumprimentos,</div>
+        <div class="signature">Maria Silva</div>
+      </article>
+
+      <article class="letter">
+        <h3>倡议保护环境</h3>
+
+        <div class="date">Faro, 19 de maio de 2026</div>
+        <div class="subject">Assunto: Sugestões para reforçar a proteção ambiental no município</div>
+        <div class="salutation">Exmo. Senhor Presidente da Câmara Municipal,</div>
+
+        <p>Venho, na qualidade de residente, apresentar algumas propostas que considero urgentes para melhorar a proteção ambiental da nossa cidade. Nos últimos anos, aumentaram o trânsito, a produção de resíduos e a pressão sobre as zonas verdes; simultaneamente, muitos cidadãos sentem que as campanhas existentes são pontuais e pouco eficazes.</p>
+
+        <p>Sugiro, em primeiro lugar, a criação de corredores verdes que liguem escolas, parques e bairros residenciais, favorecendo deslocações a pé ou de bicicleta. Para isso, seria necessário alargar passeios, instalar ciclovias seguras e plantar árvores adaptadas ao clima local. Em segundo lugar, proponho a recolha seletiva porta a porta nos bairros com menor taxa de reciclagem, acompanhada de informação clara e fiscalização gradual. Multar sem educar seria injusto; educar sem fiscalizar seria insuficiente.</p>
+
+        <p>Além disso, a autarquia poderia apoiar hortas comunitárias e mercados de produtores locais, reduzindo transporte de alimentos e fortalecendo laços entre moradores. Finalmente, seria útil publicar relatórios trimestrais sobre qualidade do ar, consumo de água e destino dos resíduos, para que a população acompanhe os resultados.</p>
+
+        <p>A proteção ambiental não deve ser tratada como ornamento político, mas como condição de saúde pública e justiça entre gerações.</p>
+
+        <div class="closing">Com os melhores cumprimentos,</div>
+        <div class="signature">Miguel Rocha</div>
+      </article>
+    </section>
+
+    <section id="proposal-letters" class="page">
+      <h2 class="page-title">提案信</h2>
+
+      <article class="letter">
+        <h3>教育改革方案</h3>
+
+        <div class="date">Coimbra, 15 de maio de 2026</div>
+        <div class="subject">Assunto: Proposta para integrar tecnologia interativa no ensino</div>
+        <div class="salutation">Exmos. Senhores do Ministério da Educação,</div>
+
+        <p>Venho apresentar a proposta “Sala Aberta”, destinada a integrar novas tecnologias no ensino sem transformar a escola numa simples exposição de dispositivos. O objetivo central é aumentar a participação dos alunos, desenvolver autonomia intelectual e apoiar os professores na avaliação contínua.</p>
+
+        <p>O projeto assenta em três instrumentos. Primeiro, uma plataforma digital comum, onde cada turma possa aceder a textos, vídeos, exercícios adaptativos e fóruns moderados pelo docente. Segundo, laboratórios móveis com tablets, sensores e programas de simulação, permitindo que Matemática, Ciências ou Geografia sejam aprendidas por experimentação. Terceiro, formação obrigatória para professores, centrada não na técnica, mas no desenho de atividades críticas, colaborativas e inclusivas.</p>
+
+        <p>Os benefícios seriam consideráveis. Os alunos mais tímidos participariam através de respostas anónimas; os que revelam dificuldades receberiam tarefas graduadas; e os mais avançados poderiam investigar temas complementares. Para os professores, a plataforma reduziria trabalho repetitivo, disponibilizaria dados sobre progressos individuais e facilitaria a partilha de materiais entre escolas.</p>
+
+        <p>Para evitar desigualdades, proponho que o Ministério garanta equipamento público, assistência técnica e regras claras de proteção de dados. A tecnologia, quando pedagogicamente orientada, não substitui o professor: amplia o alcance da sua inteligência e devolve curiosidade à sala de aula.</p>
+
+        <div class="closing">Com os melhores cumprimentos,</div>
+        <div class="signature">João Ferreira</div>
+      </article>
+
+      <article class="letter">
+        <h3>推荐自己的可持续产品</h3>
+
+        <div class="date">Aveiro, 18 de maio de 2026</div>
+        <div class="subject">Assunto: Candidatura a apoio para produto sustentável</div>
+        <div class="salutation">Exmos. Senhores do Ministério do Ambiente e da Economia,</div>
+
+        <p>Na qualidade de diretora da empresa CircularCasa, venho apresentar a candidatura da nossa linha de embalagens reutilizáveis, produzidas a partir de fibras agrícolas desperdiçadas. O produto chama-se ReVolta e pretende substituir recipientes descartáveis utilizados por restaurantes, cantinas escolares e serviços de entrega ao domicílio.</p>
+
+        <p>A sua inovação reside em três aspetos. Em primeiro lugar, utilizamos cascas de arroz e restos de milho provenientes de produtores locais, reduzindo resíduos que seriam queimados ou enviados para aterro. Em segundo lugar, as embalagens podem ser lavadas e reutilizadas dezenas de vezes, através de um sistema de caução simples para consumidores e comerciantes. Em terceiro lugar, no fim do ciclo de vida, o material é compostável em unidades certificadas.</p>
+
+        <p>Solicitamos apoio financeiro para ampliar a produção, instalar pontos de recolha e desenvolver uma campanha de educação ambiental. O subsídio permitiria baixar o preço inicial, tornando a alternativa sustentável competitiva face ao plástico descartável. Estimamos, no primeiro ano, evitar cerca de três milhões de embalagens de uso único e criar vinte empregos locais.</p>
+
+        <p>Acreditamos que a transição ecológica só terá êxito se unir responsabilidade ambiental, viabilidade económica e participação dos cidadãos. O ReVolta concretiza precisamente essa convergência.</p>
+
+        <div class="closing">Com elevada consideração,</div>
+        <div class="signature">Helena Costa</div>
+      </article>
+
+      <article class="letter">
+        <h3>鼓励女性提高领导力</h3>
+
+        <div class="date">Lisboa, 20 de maio de 2026</div>
+        <div class="subject">Assunto: Proposta para promover a liderança feminina</div>
+        <div class="salutation">Exmos. Senhores,</div>
+
+        <p>Venho apresentar uma proposta destinada a aumentar a participação das mulheres em cargos de liderança, tanto no setor público como no privado. Apesar dos progressos legais, muitas profissionais continuam afastadas de posições decisivas por preconceitos subtis, redes informais masculinas e desigual distribuição das responsabilidades familiares.</p>
+
+        <p>Proponho a criação de um programa nacional de mentoria, no qual dirigentes experientes acompanhem jovens trabalhadoras durante os primeiros anos de carreira. Esse apoio deveria incluir formação em negociação salarial, gestão de equipas, comunicação pública e conhecimento dos mecanismos de promoção. Paralelamente, as organizações participantes teriam de publicar dados anuais sobre remuneração, progressão e composição dos seus órgãos de direção, pois a transparência é indispensável para corrigir injustiças invisíveis.</p>
+
+        <p>Defendo ainda horários flexíveis para mães e pais, licenças parentais equilibradas e critérios de avaliação baseados em resultados, não em presença prolongada no escritório. Quando cuidar de filhos ou idosos é visto como obstáculo apenas feminino, a igualdade torna-se impossível.</p>
+
+        <p>Promover a liderança feminina não significa favorecer pessoas menos competentes; significa retirar barreiras que impedem a competência de ser reconhecida. Uma sociedade que desperdiça metade do seu talento empobrece moral e economicamente. Por isso, solicito que esta proposta seja considerada em futuras políticas de igualdade.</p>
+
+        <div class="closing">Com os melhores cumprimentos,</div>
+        <div class="signature">Sofia Mendes</div>
+      </article>
+    </section>
+
+    <section id="argumentative-essays" class="page">
+      <h2 class="page-title">议论文</h2>
+
+      <article class="essay">
+        <h3>人工智能优缺点</h3>
+
+        <p>A inteligência artificial é frequentemente apresentada como uma revolução inevitável, ora celebrada como solução para todos os problemas, ora temida como ameaça à liberdade humana. Ambas as atitudes me parecem insuficientes. A questão central não é saber se a inteligência artificial é boa ou má, mas que tipo de sociedade estamos a construir através dela.</p>
+
+        <p>As suas vantagens são evidentes. Em áreas como a medicina, a educação, os transportes ou a administração pública, os sistemas inteligentes podem analisar grandes quantidades de informação, reduzir erros repetitivos e tornar certos serviços mais rápidos e acessíveis. Num mundo marcado pela complexidade, a IA oferece instrumentos poderosos para apoiar decisões, prever riscos e libertar os seres humanos de tarefas mecânicas.</p>
+
+        <p>Contudo, precisamente por ser poderosa, não pode ser tratada como uma ferramenta neutra. Os algoritmos aprendem a partir de dados produzidos por sociedades imperfeitas; por isso, podem reproduzir preconceitos, ampliar desigualdades e tornar invisíveis os responsáveis pelas decisões. Quando uma máquina recusa um crédito, seleciona candidatos ou vigia comportamentos, a eficiência técnica pode esconder uma perda de justiça, privacidade e responsabilidade.</p>
+
+        <p>Além disso, há um risco mais subtil: o empobrecimento da autonomia intelectual. Se nos habituarmos a receber respostas prontas, poderemos perder a paciência necessária para duvidar, comparar argumentos e formar juízos próprios.</p>
+
+        <p>Defendo, portanto, uma utilização ambiciosa, mas exigente, da inteligência artificial. Ela deve ser regulada por princípios de transparência, supervisão humana, proteção de dados e educação crítica. A IA será benéfica se ampliar a inteligência humana; tornar-se-á perigosa se servir apenas para automatizar desigualdades e substituir pensamento por conveniência.</p>
+      </article>
+
+      <article class="essay">
+        <h3>科技会取代外语从业者吗？</h3>
+
+        <p>Com o desenvolvimento dos tradutores automáticos, tornou-se comum perguntar se ainda vale a pena estudar línguas estrangeiras. À primeira vista, a dúvida parece razoável: hoje, uma aplicação consegue traduzir menus, mensagens, páginas da Internet e até conversas simples em poucos segundos. Contudo, considero precipitado concluir que as línguas deixarão de ser necessárias.</p>
+
+        <p>É verdade que a tecnologia resolveu muitas dificuldades práticas. Para turismo, compras ou comunicação informal, os tradutores digitais são úteis, rápidos e acessíveis. Também ajudam estudantes e profissionais a compreender textos estrangeiros sem depender constantemente de dicionários. Nesse sentido, representam uma ferramenta democrática.</p>
+
+        <p>No entanto, conhecer uma língua não significa apenas decifrar palavras. Uma negociação comercial, uma consulta médica, um contrato jurídico ou uma obra literária exigem contexto, subtileza, intenção e responsabilidade. A máquina pode sugerir equivalências, mas nem sempre compreende ironia, silêncio, emoção ou diferenças culturais. Além disso, quando há erro, é o ser humano que deve assumir as consequências.</p>
+
+        <p>Aprender línguas continua também a ser uma forma de ampliar a visão do mundo. Quem domina outra língua não ganha apenas vocabulário; ganha acesso a outra maneira de pensar. Por isso, acredito que a tecnologia não eliminará professores, tradutores e intérpretes. Eliminará, sim, tarefas mecânicas, obrigando estes profissionais a tornarem-se mais especializados, críticos e interculturais.</p>
+      </article>
+
+      <article class="essay">
+        <h3>奢侈品商场建设社会与社会不平等</h3>
+
+        <p>Nas grandes cidades, o consumo de luxo tornou-se mais visível: centros comerciais sofisticados, marcas internacionais e espaços de lazer caros multiplicam-se enquanto muitas famílias enfrentam rendas elevadas, salários modestos e dificuldade de acesso a serviços básicos. Perante esta contradição, considero que o governo deve limitar a construção de centros comerciais de luxo, embora não deva proibi-la totalmente.</p>
+
+        <p>É verdade que esses projetos podem criar emprego, atrair investimento e aumentar receitas fiscais. Também seria injusto tratar todo o consumo de alto nível como algo moralmente condenável. Numa sociedade plural, diferentes grupos têm distintas capacidades de consumo.</p>
+
+        <p>No entanto, quando a desigualdade social se agrava, o planeamento urbano não pode servir apenas quem possui maior poder aquisitivo. Terrenos centrais, infraestruturas públicas e recursos administrativos são limitados. Se forem orientados sobretudo para espaços exclusivos, enquanto faltam bibliotecas, centros comunitários, habitação acessível, mercados populares ou serviços de bairro, a cidade transmite uma mensagem perigosa: há sempre lugar para o luxo, mas não para as necessidades comuns.</p>
+
+        <p>Além disso, tais espaços reforçam a distância simbólica entre grupos sociais. Mesmo quem nunca entra neles percebe que a cidade valoriza mais a ostentação do que a inclusão.</p>
+
+        <p>Por isso, defendo uma limitação criteriosa: autorizar estes centros apenas quando não prejudiquem o equilíbrio urbano e quando ofereçam contrapartidas sociais claras. O objetivo não é combater a riqueza, mas impedir que a desigualdade se transforme em paisagem urbana.</p>
+      </article>
+
+      <article class="essay">
+        <h3>保护环境</h3>
+
+        <p>Proteger o ambiente deixou de ser uma causa romântica de minorias sensíveis à natureza; tornou-se uma condição material de sobrevivência e justiça. Durante muito tempo, confundiu-se progresso com produção acelerada, consumo abundante e domínio técnico sobre o mundo natural. Hoje, porém, percebe-se que esse modelo cobra um preço elevado: ar degradado, água contaminada, solos exaustos e uma relação cada vez mais frágil entre sociedade e planeta.</p>
+
+        <p>A proteção ambiental exige, antes de mais, uma mudança estrutural. Cidades dependentes do automóvel precisam de transportes públicos eficientes, ciclovias seguras e planeamento que aproxime habitação, trabalho e serviços. A energia deve provir cada vez mais de fontes limpas, e os edifícios devem ser concebidos para consumir menos. Estas medidas são mais importantes do que campanhas ocasionais, porque alteram as condições concretas em que as pessoas vivem.</p>
+
+        <p>Também as empresas têm responsabilidades decisivas. Não basta usar linguagem ecológica em publicidade; é necessário reduzir emissões, limitar embalagens, tratar resíduos e abandonar a lógica de produtos rapidamente descartáveis. O Estado deve fiscalizar, punir abusos e favorecer modelos económicos circulares.</p>
+
+        <p>Os cidadãos, por sua vez, devem poupar água, separar resíduos, consumir com moderação e recusar desperdícios. Contudo, seria injusto transformar a crise ambiental numa soma de culpas individuais, ignorando sistemas de produção e decisões políticas.</p>
+
+        <p>Proteger o ambiente significa redefinir progresso. Uma sociedade avançada não é a que extrai mais, constrói mais e consome mais, mas a que aprende a viver bem sem destruir aquilo que torna a vida possível.</p>
+      </article>
+
+      <article class="essay">
+        <h3>手机的利弊</h3>
+
+        <p>Na China contemporânea, o telemóvel não é apenas um meio de comunicação; tornou-se quase uma chave de acesso à vida social. Com ele pagamos no supermercado, pedimos comida, chamamos transporte, marcamos consultas médicas, estudamos, trabalhamos e mantemos contacto com familiares que vivem noutras províncias. Para muitos cidadãos, sair de casa sem telemóvel é mais inconveniente do que sair sem carteira.</p>
+
+        <p>As vantagens são inegáveis. O telemóvel facilitou a vida quotidiana, reduziu distâncias e tornou muitos serviços mais eficientes. Um estudante pode assistir a aulas online; um pequeno comerciante pode vender através de plataformas digitais; um idoso pode falar por vídeo com filhos que trabalham em Xangai, Shenzhen ou Pequim. Num país vasto, esta conectividade tem valor social real.</p>
+
+        <p>No entanto, a dependência também é preocupante. Muitos jovens passam horas em vídeos curtos, jogos e redes sociais, sacrificando sono, leitura e concentração. A fronteira entre trabalho e descanso tornou-se menos clara, pois mensagens profissionais chegam a qualquer hora. Além disso, a recolha constante de dados pessoais cria riscos de vigilância comercial e perda de privacidade.</p>
+
+        <p>Na minha opinião, o telemóvel deve ser usado como instrumento, não como ambiente total de existência. As escolas deveriam ensinar literacia digital, as famílias criar momentos sem ecrãs e as empresas respeitar melhor o tempo livre. A tecnologia aproxima-nos, mas só a disciplina impede que ela nos domine.</p>
+      </article>
+
+      <article class="essay">
+        <h3>减少资源浪费</h3>
+
+        <p>Reduzir o desperdício de recursos é uma das tarefas mais urgentes das sociedades contemporâneas. Durante décadas, muitos países associaram bem-estar à abundância material: comprar mais, trocar mais depressa, usar e deitar fora. Esse modelo criou conforto, mas também produziu excesso de lixo, consumo energético elevado e uma relação irresponsável com os bens disponíveis.</p>
+
+        <p>O desperdício alimentar é um dos exemplos mais visíveis. Em restaurantes, festas e cantinas, ainda se pede ou prepara mais comida do que o necessário. Para combater esse hábito, é preciso promover porções flexíveis, facilitar o aproveitamento de sobras e educar desde cedo para o valor dos alimentos. Deitar comida fora não é apenas perder dinheiro; é desperdiçar água, solo, energia e trabalho humano.</p>
+
+        <p>Também o consumo impulsivo deve ser questionado. Promoções constantes, comércio eletrónico e publicidade personalizada levam muitas pessoas a comprar roupas, aparelhos e objetos de que realmente não precisam. Uma solução passa por escolher produtos mais duráveis, reparar em vez de substituir e partilhar bens usados raramente.</p>
+
+        <p>As políticas públicas são igualmente importantes. Tarifas progressivas de água e eletricidade, incentivos à reciclagem, combate à obsolescência programada e apoio à economia circular podem reduzir desperdícios em grande escala.</p>
+
+        <p>Reduzir o desperdício não significa regressar à pobreza. Significa compreender que a verdadeira abundância não está em gastar sem pensar, mas em usar com inteligência aquilo que temos.</p>
+      </article>
+
+      <article class="essay">
+        <h3>地球没有人类会更好吗？</h3>
+
+        <p>Perguntar se a Terra estaria melhor sem seres humanos é uma forma extrema de reconhecer a gravidade dos danos que provocámos. Florestas destruídas, oceanos poluídos, espécies desaparecidas e alterações climáticas parecem confirmar que a humanidade se tornou uma presença perigosa. À primeira vista, imaginar um planeta sem nós pode parecer imaginar um planeta em recuperação.</p>
+
+        <p>No entanto, essa conclusão é demasiado rápida. A Terra não é uma entidade moral que possa simplesmente agradecer a nossa ausência. O que existe são ecossistemas complexos, formas de vida vulneráveis e uma espécie humana capaz tanto de destruir como de compreender a destruição que causa. A mesma humanidade que polui rios desenvolve ciência para os recuperar; a mesma civilização que explora recursos cria movimentos de conservação, leis ambientais e tecnologias menos agressivas.</p>
+
+        <p>O problema, portanto, não é a existência humana em si, mas uma determinada forma de habitar o mundo: expansionista, impaciente e convencida de que a natureza é apenas reserva de matérias-primas. Houve e há comunidades que vivem com impacto mais limitado, reconhecendo dependência em vez de domínio. Isso prova que a relação entre humanidade e Terra não precisa ser necessariamente predatória.</p>
+
+        <p>Defender que o planeta estaria melhor sem seres humanos pode até parecer ecológico, mas corre o risco de substituir responsabilidade por desistência. A questão mais exigente não é imaginar a nossa ausência; é transformar a nossa presença.</p>
+
+        <p>A Terra não precisa de uma humanidade desaparecida. Precisa de uma humanidade menos arrogante, capaz de limitar o desejo, corrigir os seus instrumentos e reconhecer que proteger a vida é também proteger-se a si própria.</p>
+      </article>
+
+      <article class="essay">
+        <h3>职场性别不平等</h3>
+
+        <p>A desigualdade entre homens e mulheres no trabalho tornou-se menos declarada, mas não necessariamente menos real. Em muitas sociedades, a lei reconhece direitos iguais, as mulheres têm elevada escolaridade e participam ativamente na vida económica. Ainda assim, continuam a enfrentar salários inferiores, menor presença em cargos de decisão e suspeitas injustas relacionadas com maternidade, ambição ou autoridade.</p>
+
+        <p>Uma parte do problema reside na falsa neutralidade das organizações. Muitas empresas afirmam promover apenas “mérito”, mas avaliam esse mérito segundo padrões construídos historicamente em torno da disponibilidade masculina: longas horas no escritório, mobilidade constante, presença em redes informais e ausência de interrupções familiares. Quando as mulheres acumulam trabalho profissional e responsabilidades domésticas, partem de condições desiguais para competir por critérios aparentemente iguais.</p>
+
+        <p>A maternidade revela esta contradição de modo evidente. Ter filhos é indispensável à continuidade da sociedade, mas o seu custo profissional recai frequentemente sobre as mulheres. Mesmo antes de serem mães, podem ser vistas como risco futuro. Pelo contrário, a paternidade raramente é interpretada como obstáculo à carreira.</p>
+
+        <p>Combater esta desigualdade exige medidas concretas: transparência salarial, critérios claros de promoção, licenças parentais equilibradas, serviços de apoio à infância e participação masculina no cuidado familiar. Também é necessário reconhecer estilos diversos de liderança, sem penalizar mulheres por serem firmes nem exigir que imitem modelos masculinos para serem respeitadas.</p>
+
+        <p>A igualdade profissional não consiste em favorecer mulheres contra homens. Consiste em impedir que talento, competência e esforço sejam filtrados por expectativas injustas. Uma sociedade que desperdiça capacidade por preconceito torna-se menos eficiente, menos democrática e menos inteligente.</p>
+      </article>
+    </section>
+
+    <section id="complaint-letters" class="page">
+      <h2 class="page-title">投诉信</h2>
+
+      <article class="letter">
+        <h3>产品</h3>
+
+        <div class="date">Lisboa, 16 de maio de 2026</div>
+        <div class="subject">Assunto: Reclamação relativa ao atendimento automático ineficaz</div>
+        <div class="salutation">Exmos. Senhores,</div>
+
+        <p>Venho, por este meio, apresentar uma reclamação formal relativa ao apoio prestado pela vossa empresa após a avaria do equipamento que adquiri no passado mês de abril. O aparelho deixou subitamente de funcionar e, desde então, tentei por diversas vezes contactar o serviço de assistência.</p>
+
+        <p>O problema é que o atendimento está inteiramente entregue a um robô de conversação. Descrevi a avaria com clareza, anexei fotografias e indiquei o número da fatura; ainda assim, o sistema respondeu sempre com mensagens genéricas, incapazes de reconhecer a situação. Mais grave, não me foi disponibilizada qualquer opção para falar com um funcionário, marcar reparação ou apresentar comprovativos adicionais. A cada tentativa, era reenviado para o mesmo menu, o que transformou um problema técnico simples numa experiência frustrante e desrespeitosa.</p>
+
+        <p>Considero inaceitável que uma empresa venda produtos acompanhados de garantia, mas impeça os clientes de exercerem os seus direitos através de um canal humano efetivo. Solicito, portanto, contacto imediato por parte de um assistente qualificado, reparação ou substituição do equipamento e compensação pelo tempo perdido.</p>
+
+        <p>Caso não receba resposta satisfatória no prazo de cinco dias úteis, encaminharei a situação para as entidades competentes de defesa do consumidor.</p>
+
+        <div class="closing">Com os melhores cumprimentos,</div>
+        <div class="signature">Rui Almeida</div>
+      </article>
+
+      <article class="letter">
+        <h3>官方</h3>
+
+        <div class="date">Braga, 17 de maio de 2026</div>
+        <div class="subject">Assunto: Pedido de intervenção municipal devido a ruído noturno</div>
+        <div class="salutation">Exmo. Senhor Presidente da Câmara Municipal,</div>
+
+        <p>Resido na Rua das Laranjeiras e venho expor uma situação que tem afetado gravemente a qualidade de vida dos moradores. Há cerca de dois meses abriu, junto aos prédios habitacionais, um bar que funciona até altas horas da madrugada. Desde então, a música amplificada, as conversas na via pública e a circulação constante de veículos tornaram o descanso noturno praticamente impossível.</p>
+
+        <p>Não se trata de intolerância perante a atividade económica. Compreendemos que a cidade precisa de espaços de lazer. Contudo, quando o entretenimento de alguns impede crianças, idosos e trabalhadores de dormir, deixa de haver convivência equilibrada. Já contactámos informalmente os responsáveis do estabelecimento, mas as promessas de reduzir o volume não produziram qualquer efeito. A situação tem ainda gerado insegurança, pois se acumulam garrafas, lixo e discussões à saída do bar.</p>
+
+        <p>Solicito, por isso, que a autarquia realize medições de ruído, fiscalize o cumprimento dos horários legais, imponha limites ao som exterior e reforce a limpeza e vigilância da zona. Seria igualmente útil promover uma reunião entre moradores, proprietários e serviços municipais.</p>
+
+        <p>A intervenção da Câmara é indispensável para compatibilizar lazer, trabalho e direito ao repouso.</p>
+
+        <div class="closing">Com elevada consideração,</div>
+        <div class="signature">Carla Nunes</div>
+      </article>
+    </section>
+
+    <section id="narrative-essays" class="page">
+      <h2 class="page-title">叙述文</h2>
+
+      <article class="essay">
+        <h3>流浪者送餐</h3>
+
+        <p>A experiência de voluntariado que mais me marcou ocorreu num centro de apoio a pessoas sem-abrigo. Inscrevi-me inicialmente por curiosidade e, confesso, com alguma ingenuidade: imaginava que bastaria distribuir refeições para “ajudar”. Depressa percebi que a ajuda verdadeira começa quando se abandona a vontade de salvar alguém e se aprende a escutar.</p>
+
+        <p>Todas as quartas-feiras preparávamos sopa, organizávamos roupa e acompanhávamos os utentes em pequenas tarefas administrativas. O mais difícil não era o trabalho físico, mas enfrentar histórias de solidão, doença mental, desemprego e ruturas familiares. Recordo um homem que recusava sempre cobertores, mas pedia livros policiais. Essa preferência obrigou-me a vê-lo não como “um sem-abrigo”, mas como uma pessoa com gosto, memória e humor.</p>
+
+        <p>O voluntariado ensinou-me também os seus limites. A generosidade individual é necessária, porém não substitui políticas de habitação, saúde e reinserção profissional. Muitas vezes saía do centro com a sensação contraditória de ter feito pouco e, ainda assim, de ter feito algo indispensável.</p>
+
+        <p>Hoje considero que o voluntariado não deve alimentar superioridade moral. Deve aproximar realidades que a cidade tende a separar, sem transformar a pobreza em espetáculo nem o sofrimento alheio em currículo pessoal. Ao servir refeições, aprendi sobretudo a receber: recebi uma consciência mais concreta da dignidade humana e da fragilidade que todos partilhamos.</p>
+      </article>
+
+      <article class="essay">
+        <h3>移民家庭阅读</h3>
+
+        <p>A experiência de voluntariado que mais me marcou ocorreu durante um programa de apoio a crianças de famílias migrantes. Inscrevi-me pensando que iria simplesmente ajudar nos trabalhos de casa e organizar atividades de leitura. No entanto, depressa percebi que o verdadeiro desafio não era explicar exercícios, mas compreender a insegurança silenciosa de crianças que viviam entre a escola, a ausência dos pais ocupados e a sensação de não pertencer plenamente a lugar nenhum.</p>
+
+        <p>Todas as semanas, acompanhava um pequeno grupo numa sala comunitária. Havia alunos muito inteligentes que, apesar disso, evitavam falar, com medo de errar ou de serem ridicularizados. Recordo particularmente uma menina que raramente levantava os olhos do caderno. Um dia, depois de ler em voz alta um texto simples, sorriu como se tivesse conquistado algo enorme. Nesse momento compreendi que o voluntariado não consiste apenas em oferecer tempo; consiste em devolver confiança.</p>
+
+        <p>Essa experiência ensinou-me também a desconfiar da generosidade fácil. A ajuda individual é necessária, mas não resolve sozinha problemas ligados à desigualdade educativa, à mobilidade social e à falta de acompanhamento familiar. Se não houver políticas públicas adequadas, o voluntariado corre o risco de remendar, semana após semana, aquilo que a sociedade continua a produzir.</p>
+
+        <p>Ainda assim, não considero esse esforço inútil. Pelo contrário, aprendi que uma intervenção pequena pode ter valor quando respeita a dignidade do outro. Saí desse programa menos ingénua e mais consciente: ajudar não é salvar alguém, mas caminhar durante algum tempo ao seu lado.</p>
+      </article>
+
+      <article class="essay">
+        <h3>社区托班</h3>
+
+        <p>A experiência de voluntariado que mais me marcou ocorreu num centro comunitário durante as férias de verão. O bairro onde vivo não é pobre, mas muitas famílias enfrentam uma dificuldade muito concreta: os pais trabalham durante o dia inteiro, os avós já não têm energia para acompanhar as crianças, e as férias escolares transformam-se facilmente num período de ansiedade. Por isso, a comunidade organizou uma pequena sala de estudo e atividades, onde alguns estudantes universitários, incluindo eu, ajudavam crianças do ensino básico.</p>
+
+        <p>No início, pensei que a nossa função seria simples: vigiar, explicar exercícios e manter as crianças ocupadas. Porém, ao longo das semanas, percebi que o problema era mais profundo. Algumas crianças tinham explicadores privados e horários cheios; outras passavam a maior parte do dia com um telemóvel na mão, à espera de que os pais regressassem. Todas, de formas diferentes, pareciam viver sob uma pressão que não sabiam nomear. Recordo um rapaz que dizia sempre que “não era bom a nada”, embora resolvesse rapidamente os problemas de matemática. O que lhe faltava não era inteligência, mas alguém que o escutasse sem o comparar imediatamente com outros.</p>
+
+        <p>A partir desse momento, deixei de ver o voluntariado como uma ajuda unilateral. Num ambiente social em que adultos estão cansados, crianças competem cedo demais e a educação se transforma frequentemente em corrida, oferecer tempo, paciência e atenção já é uma forma de intervenção. Naturalmente, um programa comunitário não substitui políticas públicas de apoio às famílias, nem resolve a desigualdade educativa. Mas pode criar um espaço menos agressivo, onde uma criança seja vista antes de ser avaliada.</p>
+
+        <p>Saí dessa experiência com uma ideia mais humilde de utilidade. Ajudar não é necessariamente mudar a vida de alguém de modo grandioso; às vezes, é impedir que, durante algumas horas, essa pessoa se sinta sozinha dentro de uma sociedade demasiado apressada.</p>
       </article>
     </section>
   </main>
 </body>
-
-
